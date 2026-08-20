@@ -20,4 +20,5 @@ I enjoy building simple, clean solutions and learning new technologies.
 - Building small projects
 
 ## Contact
-- GitHub: [add your profile link here]
+- GitHub: https://github.com/shadow-master31
+- linkdin: https://www.linkedin.com/in/praveen-devadiga31
