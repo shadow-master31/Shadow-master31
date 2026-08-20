@@ -1,6 +1,6 @@
 # Hi, I'm Praveen 👋
 
-I'm a student and programmer interested in Java, Python, Node js, and express framework.
+I'm a student and programmer interested in Java, Python, C, Node js, and express framework.
 I enjoy building simple, clean solutions and learning new technologies.
 
 ## What I do
@@ -11,6 +11,7 @@ I enjoy building simple, clean solutions and learning new technologies.
 ## Tech stack
 - Java
 - Python
+- C
 - Node js
 - express framework 
 
